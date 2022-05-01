@@ -8,7 +8,7 @@ I'm just a random guy who tinkers with things and is available to help
 
 You want contact me?
 <p align="left">
-  <img src="https://img.shields.io/badge/Horziox%230007-5865f2?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
+  <a href="https://discord.com/users/340212760870649866"><img src="https://img.shields.io/badge/Horziox%230007-5865f2?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/></a>
   <a href="https://twitter.com/Horziox"><img src="https://img.shields.io/badge/twitter-4bb7de?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/></a>
   <a href="mailto:horziox.dev@gmail.com"><img src="https://img.shields.io/badge/mail-b52626?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
 </p>
